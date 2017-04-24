@@ -1,0 +1,12 @@
+{
+    "name": "vendor/tencent",
+    "description": "this is utils of tencent such as image,login and so on",
+    "type": "library",
+    "authors": [
+        {
+            "name": "guoyao",
+            "email": "guoyaomsn@msn.com"
+        }
+    ],
+    "require": {}
+}
