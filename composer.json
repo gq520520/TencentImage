@@ -1,5 +1,5 @@
 {
-    "name": "vendor/tencent",
+    "name": "tencentutils",
     "description": "this is utils of tencent such as image,login and so on",
     "type": "library",
     "authors": [
